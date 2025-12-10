@@ -1,8 +1,5 @@
 ### Olá! Eu sou Arthur Neto
-    ## ⚡ Technologies
-
-These are some of the technologies and tools that I work with:
-
+## ⚡ Tecnologias
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
