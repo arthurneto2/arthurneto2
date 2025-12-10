@@ -30,7 +30,6 @@ IDEs:
 ____
 
 ## 📊 GitHub Stats
-![Loiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=loiane&show_icons=true&theme=tokyonight)
 
 
 
