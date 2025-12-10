@@ -1,4 +1,5 @@
 ### Olá! Eu sou Arthur Neto 👋
+
 ## ⚡ Tecnologias
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -31,8 +32,10 @@ ____
 
 ## 📊 GitHub Stats
 
-
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurneto2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurneto2&layout=compact&theme=dracula"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurneto2/arthurneto2/output/github-contribution-grid-snake-dark.svg">
