@@ -30,12 +30,6 @@ IDEs:
 
 ____
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arthurneto2&theme=dracula&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurneto2&layout=compact&theme=dracula&cache_seconds=1800)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurneto2/arthurneto2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurneto2/arthurneto2/output/github-contribution-grid-snake.svg">
