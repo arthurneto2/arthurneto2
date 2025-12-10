@@ -1,4 +1,4 @@
-### Olá! Eu sou Arthur Neto
+### Olá! Eu sou Arthur Neto 👋
 ## ⚡ Tecnologias
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
