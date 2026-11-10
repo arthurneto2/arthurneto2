@@ -12,23 +12,23 @@ Meu foco é **consistência de dados e concorrência**: transações ACID, idemp
 
 ## 🚀 Projetos em destaque
 
-**[Pediline 2.0](https://github.com/arthurneto2/pediline-showcase)** — SaaS multi-tenant de PDV, comandas e delivery para restaurantes (TCC, em dupla, [no ar](https://pediline.store/pizzaria-bella-massa))
+**[Pediline 2.0](https://github.com/arthurneto2/pediline-showcase)** — SaaS multi-tenant de PDV, comandas e delivery para restaurantes (TCC, em dupla, [no ar](https://pediline.store/pizzaria-bella-massa))<br>
 `Java 25` `Spring Boot` `PostgreSQL` `Redis` `React` `React Native`
 - Monólito modular para manter pagamento, caixa e estoque em transações ACID; lock pessimista com ordem fixa contra deadlock e pagamentos idempotentes.
 - **2.906 testes automatizados**, incluindo 48 classes de integração com Testcontainers que comprovam isolamento entre tenants e comportamento sob concorrência.
 - Teste de carga com k6, Prometheus e Grafana: **p95 de 70 ms no pico** e capacidade de 8x para mais de 20x a carga, sem perda nem duplicação de registros.
 
-**[Sistema de Faturamento e Estoque](https://github.com/arthurneto2/Korp_Teste_ArthurRoberto)** — dois microsserviços com bancos independentes (desafio técnico)
+**[Sistema de Faturamento e Estoque](https://github.com/arthurneto2/Korp_Teste_ArthurRoberto)** — dois microsserviços com bancos independentes (desafio técnico)<br>
 `.NET 10` `ASP.NET Core` `PostgreSQL` `Angular` `Docker`
 - Consistência sem transação distribuída: comando idempotente garantido pelo banco, concorrência otimista via `xmin`, retentativa seletiva com Polly e compensação explícita.
 - 87 testes (xUnit, WireMock, Testcontainers com PostgreSQL real); sobe inteiro com um `docker compose up`.
 
-**[vulnscan](https://github.com/arthurneto2/vulnscan)** — scanner de vulnerabilidades web (SQLi, XSS, autenticação em APIs REST)
+**[vulnscan](https://github.com/arthurneto2/vulnscan)** — scanner de vulnerabilidades web (SQLi, XSS, autenticação em APIs REST)<br>
 `Java 21` `Selenium` `Docker` `Ollama`
 - Compara empiricamente detecção heurística e um LLM local sobre um gabarito com alvos reais (DVWA, Juice Shop), medindo precisão, recall e F1.
 - Arquitetura hexagonal, CI no GitHub Actions e releases automáticos.
 
-**[Reservas de Salas](https://github.com/arthurneto2/servico-reserva)** — API REST em arquitetura hexagonal com DDD
+**[Reservas de Salas](https://github.com/arthurneto2/servico-reserva)** — API REST em arquitetura hexagonal com DDD<br>
 `Java 25` `Spring Boot 4` `PostgreSQL` `ArchUnit`
 - Regras de arquitetura verificadas por testes ArchUnit; fusos horários por sala e um caso de uso que grava e falha na mesma transação.
 
